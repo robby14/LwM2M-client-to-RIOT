@@ -2,7 +2,7 @@
 APPLICATION = RIOTwakaama
 
 # If no BOARD is found in the environment, use this default:
-BOARD ?= udoo
+BOARD ?= native
 #PORT=/dev/ttyUSB0
 
 # This has to be the absolute path to the RIOT base directory:
