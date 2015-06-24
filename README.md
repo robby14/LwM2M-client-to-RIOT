@@ -5,3 +5,14 @@ The goal of this project is to import wakaama client to RIOT.
 At the moment it works just in "native" that is on Linux (see the makefile), but the final goal is to make it work also and overall for the boards (like UDOO and others).
 
 Any help is appreciated.
+
+
+-------------Compiling---------------
+Go into the directory and give the following commands:
+make clean all
+
+make flash (only if you aren't in "native")
+
+--------------Running................
+Go into the directory and give the following command:
+make term
