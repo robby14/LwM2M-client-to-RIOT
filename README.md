@@ -10,6 +10,7 @@ Any help is appreciated.
 Compiling
 -----
 Go into the directory and give the following commands:
+
 make clean all
 
 make flash (only if you aren't in "native")
@@ -17,4 +18,5 @@ make flash (only if you aren't in "native")
 Running
 ----------
 Go into the directory and give the following command:
+
 make term
