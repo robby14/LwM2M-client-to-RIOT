@@ -8,6 +8,7 @@ Any help is appreciated.
 
 
 -Compiling
+-----
 Go into the directory and give the following commands:
 make clean all
 
