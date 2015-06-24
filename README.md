@@ -7,13 +7,12 @@ At the moment it works just in "native" that is on Linux (see the makefile), but
 Any help is appreciated.
 
 
--------------Compiling
----------------
+Compiling
 Go into the directory and give the following commands:
 make clean all
 
 make flash (only if you aren't in "native")
 
---------------Running................
+Running
 Go into the directory and give the following command:
 make term
